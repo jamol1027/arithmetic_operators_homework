@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+
+a = 7
+b = 7/2
+c = (b*10%10/10)
+
+print(b,c)
