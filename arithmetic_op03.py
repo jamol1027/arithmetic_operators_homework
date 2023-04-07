@@ -4,4 +4,8 @@
 
 #Print the value of the 'answer'
 
+a = 13
+b = a%10*10+a//10
+print(b)
+
 
